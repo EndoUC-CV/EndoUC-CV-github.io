@@ -1,1 +1,1 @@
-# EndoUC-CV-github.io
+# EndoUC-CV.github.io
